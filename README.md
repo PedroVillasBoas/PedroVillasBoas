@@ -6,7 +6,7 @@
 
 <h1 align="center">📜 About Me</h1>
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?quote=I%20would%20like%20to%20create%20new%20worlds%20for%20you,%20my%20little%20brother%20and%20me,%20so%20we%20can%20explore%20them%20together!&type=horizontal&theme=algolia">
+<img src="https://quotes-github-readme.vercel.app/api?quote=I%20would%20like%20to%20create%20new%20worlds%20for%20you,%20my%20little%20brother%20and%20I,%20so%20we%20can%20explore%20them%20together!&type=horizontal&theme=algolia">
 </div>
 
 </br>
