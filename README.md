@@ -28,7 +28,7 @@
   <a href="https://pedrovilasboas.itch.io">
     <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
   </a>
-  <a href="#" title="In Development 🔨">
+  <a href="https://pedrovillasboas.github.io/Portfolio-Pedro-Vilas-Boas/">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
 </div>
