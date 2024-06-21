@@ -16,7 +16,7 @@
   <a href="mailto:phvb20@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/pedro-vilas-bôas/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-vilas-bôas/", "_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
