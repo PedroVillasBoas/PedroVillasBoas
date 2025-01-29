@@ -1,4 +1,4 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=PedroVillasBoas&icon=0&color=1" />
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+There!%F0%9F%91%8B;I'm+Pedro+Vilas+B%C3%B4as!;Nice+to+have+you+here!" alt="Typing SVG" /></a>
