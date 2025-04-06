@@ -16,11 +16,7 @@
     <a href="https://github.com/PedroVillasBoas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVillasBoas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVillasBoas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div align="center">
-    <a href="https://github.com/PedroVillasBoas">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroVillasBoas&theme=dark&border_radius=3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&fire=00ADDC&ring=1543C4&currStreakLabel=00B7FF&sideLabels=00B7FF" alt="GitHub Streak" />
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroVillasBoas&theme=dark&border_radius=3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=00ADDC&ring=1543C4&currStreakLabel=00B7FF&sideLabels=00B7FF" alt="GitHub Streak"/>
 </div>
 
 </br>
