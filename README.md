@@ -11,14 +11,16 @@
 
 </br>
 
-<h1 align="center">✉️ Contact</h1>
-<div align="center"> 
-  <a href="mailto:phvb20@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-vilas-bôas/", target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<div align="center">
+    <h1 align="center">📊 Stats</h1>
+    <a href="https://github.com/PedroVillasBoas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVillasBoas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVillasBoas&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div align="center">
+    <a href="https://github.com/PedroVillasBoas">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroVillasBoas&theme=dark&border_radius=3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&fire=00ADDC&ring=1543C4&currStreakLabel=00B7FF&sideLabels=00B7FF" alt="GitHub Streak" />
+    </a>
 </div>
 
 </br>
@@ -35,16 +37,20 @@
 
 </br>
 
-<h1 align="center">💻 GameDev-Languages-Frameworks-Tools</h1>
+<h1 align="center">💻 Stacks & Engines</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=godot,unreal,unity,c,cs,cpp,py,js,ts,php,fastapi,spring,bootstrap,tailwind,jquery,postman,arduino,html,css,mysql,git,github&perline=11" />
+    <img src="https://skillicons.dev/icons?i=godot,unreal,unity,c,cs,cpp,py,js,arduino,git&perline=5" />
 </div>
 
+</br>
 
-
-<h1 align="center">📊 GitHub Stats</h1>
-<br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVillasBoas&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<h1 align="center">✉️ Contact</h1>
+<div align="center"> 
+  <a href="mailto:phvb20@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-vilas-bôas/", target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </div>
