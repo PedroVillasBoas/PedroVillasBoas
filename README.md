@@ -35,7 +35,7 @@
     <td valign="top" width="50%">
       <h2 align="center">About Me & Portfolios</h2>
       <div align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?quote=I%20would%20like%20to%20create%20new%20worlds%20for%20you,%20my%20little%20brother%20and%20I,%20so%20we%20can%20explore%20them%20together!&type=horizontal&theme=algolia">
+        <img src="https://quotes-github-readme.vercel.app/api?quote=I%20would%20like%20to%20create%20new%20worlds%20for%20you,%20my%20little%20brother%20and%20I,%20so%20we%20can%20explore%20them%20together!&type=horizontal&theme=algolia&backgroundColor=242424ff&quoteColor=ffffebff&authorColor=00CCFFff&symbolColor=99FFFFff">
         <br><br>
         <p>
           <a href="https://pedrovilasboas.itch.io" target="_blank">
@@ -57,21 +57,13 @@
           <img src="https://github-readme-stats.vercel.app/api?username=PedroVillasBoas&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Pedro's GitHub Stats"/>
         </a>
         <a href="https://github.com/PedroVillasBoas">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVillasBoas&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pedro's Top Languages"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVillasBoas&layout=compact&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Pedro's Top Languages"/>
         </a>
         <a href="https://github.com/PedroVillasBoas">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=PedroVillasBoas&theme=nord&hide_border=true" alt="Pedro's GitHub Streak"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroVillasBoas&theme=nord&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Pedro's GitHub Streak"/>
         </a>
       </div>
     </td>
   </tr>
 </table>
-
-<h1 align="center">🏆</h1>
-<p align="center">
-  <a href="https://github.com/PedroVillasBoas">
-    <img src="https://github-profile-trophy.vercel.app/?username=PedroVillasBoas&theme=nord&no-frame=true&no-bg=false&margin-w=4&hide=review" alt="Pedro's GitHub Trophies"/>
-  </a>
-</p>
-
 <hr>
