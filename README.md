@@ -25,7 +25,7 @@
 
 <h1 align="center">Stacks & Engines</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,godot,c,unreal,cpp,py,js,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,godot,c,cpp,py,js,git&perline=4" />
 </div>
 
 <hr>
